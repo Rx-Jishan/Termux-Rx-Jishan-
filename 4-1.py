@@ -398,12 +398,12 @@ logo = ("""
 \x1b[1;92m |__/  |__/|__/  \__/       \______/ |__/|_______/ |__/  |__/ \_______/|__/  |__/      
 
    \x1b[1;92m╔═════════════════════════════╗
-   \x1b[1;92m║➣TOOL NAME : {Rx Jishan}       ║
-   \x1b[1;92m║➣AUTHOR    : Attitude King        ║
-   \x1b[1;92m║➣WHATSAPP    : 01879819652 ║
+   \x1b[1;92m║➣TOOL NAME : {Rx Jishan}         ║
+   \x1b[1;92m║➣AUTHOR    : Attitude King       ║
+   \x1b[1;92m║➣WHATSAPP    : 01879819652       ║
    \x1b[1;92m║➣FACEBOOK  : Rx Jishan           ║
-   \x1b[1;92m║➣Group     : Bd Spammer Team ║
-   \x1b[1;92m║➣WHATSAPP  : [ ERROR ]       ║
+   \x1b[1;92m║➣Group     : Bd Spammer Team     ║
+   \x1b[1;92m║➣WHATSAPP  :[Rx Jishan]          ║
    \x1b[1;92m╚═════════════════════════════╝""")
 
 class Main:
